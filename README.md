@@ -7,3 +7,5 @@ Nama Kelompok:
 
 3.Gabriel Osario Arnan
 
+
+link:https://www.figma.com/design/wFcJlqDansy6yxwHTHJmkU/Evaluasi-Desain-Perangkat-Lunak--ekonomi-?node-id=0-1&t=cbocphiUJSPUjNxl-1

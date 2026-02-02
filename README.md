@@ -9,3 +9,5 @@ Nama Kelompok:
 
 
 link Desain Peoject Kami:https://www.figma.com/design/wFcJlqDansy6yxwHTHJmkU/Evaluasi-Desain-Perangkat-Lunak--ekonomi-?node-id=0-1&t=cbocphiUJSPUjNxl-1
+
+Link Laporan Kami: https://docs.google.com/document/d/1MP-CP0_TssC7oPWLhKrxtN7-y9sFzOMoK0T3qvNBi78/edit?usp=sharing
